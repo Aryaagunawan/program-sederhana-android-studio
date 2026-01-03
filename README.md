@@ -1,7 +1,7 @@
 # program-sederhana-android-studio
 - ekstrak rar 
 - kemudian buka projek pakek aplikasi android studio
-- berikut hasil dari file di ini
+- berikut hasil dari file
 
 
   
